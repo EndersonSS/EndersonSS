@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá! Sou Enderson Soubreira👋
+#### Bem vindo ao meu mundo 🧑‍💻!
 
-<!--
-**EndersonSS/EndersonSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enderson-soubreira-b9762a186/) ![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/endersonserra?igshid=1o9uhlz6bqs4s)
+![Gmail Badge](https://img.shields.io/badge/-eendersonserra@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=eendersonserra@gmail.com)
 
-Here are some ideas to get you started:
+### Sou um desenvolvedor mobile em São Luis - MA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓  &nbsp; Sou graduado em Sistema de Informação pela [UNDB](https://www.undb.edu.br/).
+- 👨‍💻 &nbsp; Atualmente trabalho na [Morohsoftware](http://morohsoftware.com.br/) como programador trainee
+- 📖 &nbsp; Atualmente estou aprendendo [Flutter]()
+
+**Linguagens, Ferramentas e Passa tempo:**
+ | Flutter 💙 | Java🧡 | C##💜| MySQL💜 | PostgreSQL💜 | Mora jogar CSGO 🎮 ?|
+
+
+## Github Stats ...
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EndersonSS&count_private=true&show_icons=true&theme=onedark)
