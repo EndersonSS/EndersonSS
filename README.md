@@ -12,7 +12,7 @@
 - 📖 &nbsp; Atualmente estou aprendendo [Flutter]()
 
 **Linguagens, Ferramentas e Passa tempo:**
- | Flutter 💙 | Java🧡 | | PHP💜 |C##💜| MySQL💜 | PostgreSQL💜 | CSGO🎮 |
+ | Flutter 💙 | Java🧡 | PHP💜 |C##💜| MySQL💜 | PostgreSQL💜 | CSGO🎮 |
 
 
 ## Github Stats ...
