@@ -11,7 +11,7 @@
 - 👨‍💻 &nbsp; Atualmente trabalho na [Morohsoftware](http://morohsoftware.com.br/) como programador trainee
 - 📖 &nbsp; Atualmente estou aprendendo [Flutter]()
 
-**Linguagens, Ferramentas e Passa tempo:**
+**💻 Experiências:**
  | Flutter 💙 | Java🧡 | PHP💜 |C##💜| MySQL💜 | PostgreSQL💜|
 
 
