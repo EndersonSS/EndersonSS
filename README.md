@@ -9,7 +9,7 @@
 
 - 👨‍🎓  &nbsp; Sou graduado em Sistema de Informação pela [UNDB](https://www.undb.edu.br/).
 - 👨‍💻 &nbsp; Atualmente trabalho na [Morohsoftware](http://morohsoftware.com.br/) como programador trainee
-- 📖 &nbsp; Desenvolvedor Mobile [Flutter]()
+- 📖 &nbsp; Desenvolvedor Mobile [Flutter]()/[Android]()/[Ios]()
 
 **💻 Experiências:**
  | Flutter 💙 | Java🧡 | PHP💜 |C##💜| MySQL💜 | PostgreSQL💜|IoT💜|
