@@ -8,11 +8,20 @@
 ### Sou um desenvolvedor mobile em São Luis - MA.
 
 - 👨‍🎓  &nbsp; Sou graduado em Sistema de Informação pela [UNDB](https://www.undb.edu.br/).
-- 👨‍💻 &nbsp; Atualmente trabalho na [Morohsoftware](http://morohsoftware.com.br/) como programador trainee
+- 👨‍💻 &nbsp; Atualmente trabalho na [Excellent Sistemas](https://www.excellentsistemas.com.br/site/) como programador mobile
 - 📖 &nbsp; Desenvolvedor Mobile [Flutter]()/[Android]()/[Ios]()
 
-**💻 Experiências:**
- | Flutter 💙 | Java🧡 | PHP💜 |C##💜| MySQL💜 | PostgreSQL💜|IoT💜|
+**💻 Experiências e habilidades:**
+ | Flutter 💙 | Java🧡 | PHP💜 |C##💜| SQL💜 | PostgreSQL💜|IoT💜| 
+
+  Cubit/Bloc - Mobx
+  Metodologia Ágil (SCRUM/Kamban) 
+  Gitflow (GitHub/Gitlab/Bitbucket)
+  Continuous Delivery
+  DDD – Domain-Driven Design
+  TDD- Test-Driven Development
+  BDD – Behavior Driven Development
+  Micro FrontEnds
 
 
 ## Github Stats ...
