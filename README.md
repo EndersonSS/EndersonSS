@@ -8,7 +8,7 @@
 ### Sou um desenvolvedor mobile em São Luis - MA.
 
 - 👨‍🎓  &nbsp; Sou graduado em Sistema de Informação pela [UNDB](https://www.undb.edu.br/).
-- 👨‍💻 &nbsp; Atualmente trabalho na [Excellent Sistemas](https://www.excellentsistemas.com.br/site/) como desenvolvedor mobile
+- 👨‍💻 &nbsp; Atualmente trabalho como desenvolvedor mobile
 - 📖 &nbsp; Desenvolvedor Mobile [Flutter]()/[Android]()/[Ios]()
 
 **💻 Experiências e habilidades:**
